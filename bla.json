@@ -5,7 +5,7 @@
       "size": "14.8 MB",
       "date": "20190710",
       "md5": "028e5c746a0f92704c92c719532a9bb6",
-      "release_number": "v11",
+      "release_number": "v7",
       "url": "https://master.dl.sourceforge.net/project/nano-releases/AOSP/Nano_Kernel-rosy-20190626-1304-AOSP-v7.zip",
       "changelog_url": "https://raw.githubusercontent.com/nano-kernel-project/Nano_OTA_changelogs/master/test_changelogs.txt"
     },
@@ -14,7 +14,7 @@
       "size": "14.8 MB",
       "date": "20190626",
       "md5": "028e5c746a0f92704c92c719532a9bb6",
-      "release_number": "v10",
+      "release_number": "v7",
       "url": "https://master.dl.sourceforge.net/project/nano-releases/AOSP/Nano_Kernel-rosy-20190626-1304-AOSP-v7.zip",
       "changelog_url": "https://raw.githubusercontent.com/AxelBlaz3/demo/master/changelog.txt"
     },
@@ -23,7 +23,7 @@
       "size": "14.8 MB",
       "date": "20190626",
       "md5": "028e5c746a0f92704c92c719532a9bb6",
-      "release_number": "v9",
+      "release_number": "v7",
       "url": "https://master.dl.sourceforge.net/project/nano-releases/AOSP/Nano_Kernel-rosy-20190626-1304-AOSP-v7.zip",
       "changelog_url": "https://raw.githubusercontent.com/nano-kernel-project/Nano_OTA_changelogs/master/test_changelogs.txt"
     },
@@ -32,7 +32,7 @@
       "size": "14.8 MB",
       "date": "20190626",
       "md5": "028e5c746a0f92704c92c719532a9bb6",
-      "release_number": "v8",
+      "release_number": "v7",
       "url": "https://master.dl.sourceforge.net/project/nano-releases/AOSP/Nano_Kernel-rosy-20190626-1304-AOSP-v7.zip",
       "changelog_url": "https://raw.githubusercontent.com/AxelBlaz3/demo/master/changelog.txt"
     },
