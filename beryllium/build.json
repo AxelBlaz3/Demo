@@ -1,0 +1,36 @@
+{
+   "name":"Poco F1",
+   "brand":"Xiaomi",
+   "codename":"beryllium",
+   "version_name":"android-10",
+   "maintainer_name":"AxelBlaz3",
+   "maintainer_url":"https://forum.xda-developers.com/member.php?u=6519039",
+   "xda_thread":"https://forum.xda-developers.com/poco-f1/development/rom-pixel-experience-t3967593",
+   "builds":[
+      {
+         "file_name":"PixysOS-v2.4-X00TD-OFFICIAL-20190116-1749"
+      },
+      {
+         "file_name":"PixysOS-v2.4-X00TD-OFFICIAL-20190116-1749"
+      },
+      {
+         "file_name":"PixysOS-v2.4-X00TD-OFFICIAL-20190116-1749"
+      },
+      {
+         "file_name":"PixysOS-v2.4-X00TD-OFFICIAL-20190116-1749"
+      },
+      {
+         "file_name":"PixysOS-v2.4-X00TD-OFFICIAL-20190116-1749"
+      },
+      {
+         "file_name":"PixysOS-v2.4-X00TD-OFFICIAL-20190116-1749"
+      },
+      {
+         "file_name":"PixysOS-v2.4-X00TD-OFFICIAL-20190116-1749"
+      },
+      {
+         "file_name":"PixysOS-v2.4-X00TD-OFFICIAL-20190116-1749"
+      }
+   ]
+}
+
