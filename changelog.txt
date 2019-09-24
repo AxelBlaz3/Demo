@@ -1,12 +1,34 @@
-Removed all (except default) governors, schedulers, and hotplugs. (by Dimitar)
-Cleaned up the kernel a bit. (by Dimitar)
-New kernel base by @sukrut4778 (by Dimitar)
-Merged latest F2FS changes. (by Sukrut4778)
-Removed all (except default) governors, schedulers, and hotplugs. (by Dimitar)
-Cleaned up the kernel a bit. (by Dimitar)
-New kernel base by @sukrut4778 (by Dimitar)
-Latest pie CAF tag LA.UM.7.6.r1-05300-89xx.0. (by Shreejoy)
-Linux 3.18.140. (by Sukrut4778)
-Merged latest F2FS changes. (by Sukrut4778)
-Removed all (except default) governors, schedulers, and hotplugs. (by Dimitar)
-Cleaned up the kernel a bit. (by Dimitar)
+## [2.4] - 2019-09-21
+### Device
+- Update build fingerprint to V10.3.4.0
+- Merge linux 4.9.193 (Illusion kernel)
+- Kernel built with clang 9.0.5
+- Traffic indicators settings are now hidden when notch is visible
+- Support notch hide
+- Support F2FS
+- Support Auto Thermal Controller (MIUI inspired)
+- Support Dirac
+- Fix Smart charging
+- Fix Device certification (at least, for me)
+- Nuke Xiaomi's display feature service
+- Nuke Manual ThermalController
+- Improved smoothness and battery friendly
+
+### Source
+- 5 September 2019
+
+## [2.4] - 2019-08-28
+### Device
+- Initial official release
+- Google Camera by default
+- Illusion kernel by default
+- MIUI vibration pattern
+- Per app thermal
+
+### Source
+- 1 August 2019
+- Support Longshot
+- Colored G logo in search bar
+- New Material Designed updater
+- View changelog within the updater
+
