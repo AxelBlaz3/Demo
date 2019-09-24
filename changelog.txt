@@ -1,21 +1,25 @@
-## [2.4] - 2019-09-21
+## [2.4] - 2019-10-28
 ### Device
-- Update build fingerprint to V10.3.4.0
-- Merge linux 4.9.193 (Illusion kernel)
-- Kernel built with clang 9.0.5
-- Traffic indicators settings are now hidden when notch is visible
-- Support notch hide
-- Support F2FS
-- Support Auto Thermal Controller (MIUI inspired)
-- Support Dirac
-- Fix Smart charging
-- Fix Device certification (at least, for me)
-- Nuke Xiaomi's display feature service
-- Nuke Manual ThermalController
-- Improved smoothness and battery friendly
+- Initial official release
+- Google Camera by default
+- Illusion kernel by default
+- MIUI vibration pattern
+- Per app thermal
 
 ### Source
-- 5 September 2019
+- 1 August 2019
+- Support Longshot
+- Colored G logo in search bar
+- New Material Designed updater
+- View changelog within the updater
+
+## [2.4] - 2019-09-21
+### Device
+- MIUI vibration pattern
+- Per app thermal
+
+### Source
+- 1 August 2019
 
 ## [2.4] - 2019-08-28
 ### Device
